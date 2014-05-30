@@ -1,0 +1,9 @@
+name: OutlawHorses
+main: me.supermaxman.outlawhorses.OutlawHorses
+version: 1.0.0
+author: Supermaxman
+description: Outlaw Horses!
+commands:
+    name:
+        description: Name Horses
+        usage: /<command>
